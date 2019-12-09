@@ -1,5 +1,7 @@
 st
 .ccls-cache
+*.rej
+*.orig
 
 # Created by https://www.gitignore.io/api/c
 # Edit at https://www.gitignore.io/?templates=c
